@@ -1,0 +1,2 @@
+# empowering-india-analysing-the-evolution-of-union-budget
+*Empowering India: Analysing the Evolution of Union Budget*  This project analyzes India's Union Budget trends (2010-2026), focusing on allocations to key sectors like education, healthcare, and infrastructure. It highlights policy shifts, growth patterns, and impact on economic indicators. The analysis uses Python, Pandas, and Matplotlib . 
